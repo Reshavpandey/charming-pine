@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Reshav pandey
 hide_title: true
 sections:
   - type: section_hero
