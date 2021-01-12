@@ -5,9 +5,8 @@ sections:
   - type: section_hero
     title: 'Hi, I''m Reshav Pandey'
     section_id: hero
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      I'm just trying to test this so let me figure this out.
   - type: section_content
     title: About
     section_id: about
