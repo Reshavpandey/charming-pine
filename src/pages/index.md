@@ -10,11 +10,21 @@ sections:
   - type: section_content
     title: About
     section_id: about
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Hey there I’m Reshav Pandey a 16 year old high school kid. I’m a growth
+      marketer, currently pursuing my Growth Marketing mini-degree from CXL. 
+
+
+
+
+      I’m a learner and therefore I love sharing my notes on growth, marketing,
+      startups, philosophy and some other nerdy stuff. 
+
+
+
+
+      All the information I share is my attempt to document my journey and help
+      other learning enthusiasts. 
     actions:
       - type: action
         label: Contact Me
